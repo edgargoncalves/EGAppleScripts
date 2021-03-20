@@ -8,7 +8,9 @@
 # - Save this code under /Applications/Emacs.app/Contents/MacOS/clientscript
 # - chmod +X /Applications/Emacs.app/Contents/MacOS/clientscript
 # - ln /Applications/Emacs.app/Contents/MacOS/clientscript /usr/local/bin/e
-# - Create
+# - Create an automator app with the Run Shell Script, save it
+#   and give it your preferred icon to use it e.g. as a
+#   QuickSilver Open With recipient.
 
 # Ensures this script is callable on a Run Shell Script automator workflow
 export PATH=/usr/local/bin:$PATH
