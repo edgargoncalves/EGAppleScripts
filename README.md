@@ -1,5 +1,10 @@
 # EGAppleScripts
 
+## Z shell scripts
+- Emacs client launcher. See file comments for instructions.
+
+
+## Window management
 These can be used to move the active window around the screen. It detects dock position and size (and whether it's hidden), and depending on the direction you choose, it'll swap between maximized, halved snapped to a screen edge or 1/3 of the usable screen size on either edge or middle of the screen.
 
 A few notes:
